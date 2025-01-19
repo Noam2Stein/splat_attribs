@@ -1,4 +1,4 @@
-Rust macro that splatters attributes across multiple items.
+Simple rust macro that splatters attributes across multiple items.
 
 ### Syntax
 
